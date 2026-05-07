@@ -7,7 +7,7 @@ The dashboard helps stakeholders quickly understand sales performance, identify 
 
 This project consists of three interactive dashboard pages, each focused on a specific analytical objective.
 
-Tools & Technologies Used :
+Tools & Technologies Used :-
 
 -Power BI
 
